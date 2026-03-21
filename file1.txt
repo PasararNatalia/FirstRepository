@@ -1,2 +1,2 @@
 Good morning!
-line from user1 - lesson about rebase
+line from user1 - lesson about rebase!
